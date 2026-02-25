@@ -1,102 +1,79 @@
-# Surchi-Whitepaper-Paper
+# 🧬 Surchi: High-Velocity AI Agents on Solana
+> **The 2026/2027 Strategic Roadmap for Autonomous Web3 Intelligence.**
 
-This document contains the official whitepaper for the Surchi project, designed for a GitHub repository or website display.
+![Network](https://img.shields.io/badge/Network-Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=white)
+![Supply](https://img.shields.io/badge/Total_Supply-19,897,905-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Phase-2026_Foundation-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-***
+---
 
-### 1. Executive Summary
+## ⚡ Executive Summary
+Surchi is a decentralized protocol deploying **Autonomous AI Sentinels** on the Solana blockchain. By merging sub-second on-chain telemetry with off-chain social sentiment, Surchi bridges the gap between raw data and profitable execution for the 2026/2027 market cycle.
 
-The Surchi platform is building the next generation of web3 AI agents to empower every cryptocurrency participant. We are a decentralized, AI-driven solution that demystifies the complex and volatile crypto landscape by moving beyond static data dashboards. By intelligently combining on-chain analytics with off-chain social intelligence, Surchi provides users with **autonomous, actionable insights** and strategic advantage. This document outlines the Surchi protocol's architecture, tokenomics, and vision for a future where informed, confident decisions are accessible to all.
+### Why Solana?
+As we scale into 2027, speed is the only moat. 
+* **High Throughput:** Processing signals at 65k+ TPS.
+* **Ultra-Low Cost:** AI-driven rebalancing at ~$0.00025 per transaction.
+* **Deep Liquidity:** Native integration with Jupiter and Raydium ecosystems.
 
-***
+---
 
-### 2. Introduction & Problem Statement
+## 📊 Tokenomics ($SURCHI)
+The tokenomics are hard-coded for scarcity and long-term ecosystem health.
 
-The rapid expansion of the web3 ecosystem has created an overwhelming flood of information. For both seasoned investors and new entrants, navigating this market is a significant challenge. Key problems include:
+| Allocation | % | Tokens | Purpose |
+| :--- | :--- | :--- | :--- |
+| **Presale** | `70%` | **13,928,533.5** | Core Community Distribution |
+| **Liquidity** | `20%` | **3,979,581.0** | LP Burn & Market Stability |
+| **Community Reserve** | `10%` | **1,989,790.5** | DAO, Staking & Ecosystem |
 
-* **Data Overload:** The sheer volume of data from on-chain transactions, social media, and news sources makes manual analysis impossible.
-* **Lack of Actionable Insight:** Traditional platforms offer data, but not the intelligence to interpret it and make timely decisions.
-* **Information Asymmetry:** Retail participants are at a disadvantage compared to large, institutional players with advanced tools and resources.
+> [!IMPORTANT]
+> **Liquidity Lock:** 100% of the LP tokens are locked for **24 months** via time-locked smart contracts. This is verifiable on-chain to ensure zero "Rug-Pull" risk.
 
-***
+---
 
-### 3. The Surchi Solution
+## 🛠 Technology Stack
 
-Surchi solves these problems by creating a new class of **web3 AI agents**. Our platform's core innovation lies in its ability to:
 
-* **Holistic Data Correlation:** Our AI engine simultaneously analyzes on-chain transaction data, smart contract events, and real-time off-chain social sentiment. This allows us to identify subtle market signals and validate trends with unprecedented accuracy.
-* **Autonomous Intelligence:** Surchi's agents don’t just present data; they learn, adapt, and provide proactive insights. This includes identifying potential scams, optimizing DeFi yield strategies, and flagging early-stage opportunities.
-* **User-Centric Design:** The platform's interface abstracts complexity. Users can interact with the AI agents using simple, natural language commands to receive clear, data-backed explanations for every insight or action.
 
-***
+* **Agent Core:** Modular AI units (Sentinels) trained on Solana's Proof-of-History (PoH) datasets.
+* **Natural Language Interface:** Interact with your portfolio via simple text commands.
+* **Deflationary Engine:** 25% of protocol revenue is used for **Buyback & Burn**, reducing circulating supply.
 
-### 4. The Surchi Protocol & Technology Stack
+---
 
-The Surchi platform is built on a robust, multi-layered architecture:
+## 🗓 Roadmap: 2026 - 2027
 
-* **Front-end:** A user-friendly web interface and mobile application.
-* **Agent Core:** The core AI/ML engine that processes data and generates insights. This layer is designed to be modular, allowing for the development of specialized agents (e.g., a "DeFi Optimizer Agent" or an "NFT Floor Price Agent").
-* **Data Pipeline:** A comprehensive system for ingesting on-chain data via RPC nodes and off-chain data via APIs and web scraping.
-* **Blockchain Integration (X Layer):** Surchi will launch on the **X Layer** blockchain.
+### 🟢 Phase 1: The Genesis (Q1 - Q2 2026)
+- [ ] **$SURCHI TGE (Token Generation Event)** on Solana Mainnet.
+- [ ] Security Audit of SPL Token Program.
+- [ ] Initial DEX Offering (IDO) and Liquidity Pairing.
 
-#### Why X Layer?
+### 🟡 Phase 2: Intelligence Scaling (Q3 - Q4 2026)
+- [ ] **Surchi Sentinel V1 Beta:** Real-time sentiment analysis engine launch.
+- [ ] Jupiter Aggregator integration for automated "Best-Price" swaps.
+- [ ] Mobile Dashboard launch (Optimized for Solana Seeker/Saga).
 
-We chose X Layer for its unique combination of **scalability, low transaction fees, and a massive, engaged user base**. As a new platform focused on real-time analysis and autonomous actions, Surchi requires a blockchain that can handle a high volume of transactions without prohibitive costs for the end user.
+### 🔵 Phase 3: Sovereign Autonomy (2027)
+- [ ] **Decentralized Inference:** Offloading AI compute to decentralized GPU networks.
+- [ ] Institutional API suite for high-frequency algorithmic traders.
+- [ ] Cross-chain AI bridges to monitor external liquidity flows.
 
-* **Low Fees:** X Layer’s low gas fees are crucial for enabling our AI agents to perform numerous micro-transactions for tasks like rebalancing portfolios or executing small, strategic trades without incurring significant costs. This makes the platform financially accessible to a wider user base.
-* **High Transaction Speed:** The network's fast block times (around 3 seconds) ensure our agents can react to market changes in near-real-time. This responsiveness is a core part of Surchi's value proposition.
-* **Access to a Ready Market:** The X Layer ecosystem is home to millions of active users and a vibrant DeFi community. Launching on X Layer gives Surchi immediate access to a large, receptive audience that is already familiar with and active in the space, significantly accelerating our go-to-market strategy.
+---
 
-***
+## 🔐 Security & Compliance
+To maintain project integrity and long-term standing:
+1. **Multi-Sig Wallets:** Reserve funds are managed via Squads (Solana Multi-sig).
+2. **Transparent Burns:** Every $SURCHI burn is broadcasted and verified on Solscan.
+3. **Verified Code:** All smart contracts are open-source and audited by third-party security firms.
 
-### 5. Surchi Tokenomics ($SURCHI)
+---
 
-The $SURCHI token is the native utility and governance token of the Surchi ecosystem.
+## 🚀 Get Involved
+* **Star this Repo:** Follow our code commits and development progress.
+* **Documentation:** Detailed protocol specs can be found in the `/docs` folder.
+* **Support:** Open an issue or join our community channels.
 
-* **Total Supply:** 21,000,000 $SURCHI
-* **Token Allocation:**
-    * **Presale:** 70% (14,700,000 $SURCHI)
-    * **Liquidity:** 20% (4,200,000 $SURCHI)
-    * **Community Reserve:** 10% (2,100,000 $SURCHI)
-
-#### Liquidity Lock
-
-The 100% of the total token supply allocated for liquidity will be **locked for a period of 24 months** upon listing. This commitment is a cornerstone of our security and trust model. The liquidity will be securely held in a time-locked smart contract, verifiable by the public. This measure provides a guarantee to our community and investors, safeguarding against the risk of a "rug pull" and demonstrating our long-term dedication to the project's success.
-
-#### Utility
-
-The $SURCHI token serves as the primary medium for accessing premium features, such as advanced agent customization and real-time alerts. It is also required for participation in the platform's governance, giving holders the ability to vote on future development and protocol upgrades.
-
-#### Deflationary Mechanism
-
-We will implement a **buyback and burn program** after listing. A portion of the platform’s revenue from subscription fees will be used to buy $SURCHI tokens from the open market. These tokens will then be permanently removed from circulation, creating a deflationary pressure on the token supply and benefiting long-term holders. This mechanism is designed to reward community loyalty and align the project's success with the token's value.
-
-***
-
-### 6. Roadmap
-
-Our roadmap is divided into three key phases, with the presale scheduled for a rapid and impactful launch this year.
-
-#### Phase 1: Foundation & Launch (Q4 2025)
-
-* **September - October 2025:**
-    * Launch of the Surchi Whitepaper and Official Website.
-    * Initial smart contract development and security audit.
-    * Aggressive community building and marketing campaigns.
-* **November - December 2025:**
-    * $SURCHI Presale: Conduct a public token presale to raise initial capital and distribute 60% of the total supply.
-    * Liquidity Pool Creation on a Decentralized Exchange (DEX).
-    * Token Launch and Listing.
-
-#### Phase 2: Platform MVP (Q1 - Q2 2026)
-
-* **Q1 2026:**
-    * Release of a Minimum Viable Product (MVP) on X Layer.
-    * Launch of the first set of AI agents, focusing on basic on-chain and off-chain sentiment analysis.
-    * Rollout of the Surchi dashboard with basic portfolio tracking and alert features.
-    * Initiate the buyback and burn program using a portion of the initial protocol fees.
-* **Q2 2026:**
-    * Implement a natural language interface, allowing users to interact with Surchi via text commands.
-    * Begin development of the mobile application for on-the-go access.
-
-#### Phase 3: Scaling & Ecosystem Growth (Q3 2026 & Beyond
+---
+© 2026 Surchi Protocol. Built on Solana.
