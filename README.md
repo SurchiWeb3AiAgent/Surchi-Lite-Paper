@@ -1,79 +1,76 @@
-# 🧬 Surchi: High-Velocity AI Agents on Solana
-> **The 2026/2027 Strategic Roadmap for Autonomous Web3 Intelligence.**
+# ⚡ SURCHI: THE NEURAL SENTINEL PROTOCOL
+> **Autonomous AI-Driven Web3 Intelligence Suite on Solana**
 
-![Network](https://img.shields.io/badge/Network-Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=white)
-![Supply](https://img.shields.io/badge/Total_Supply-19,897,905-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Phase-2026_Foundation-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Network: Solana](https://img.shields.io/badge/Network-Solana-blueviolet)](https://solana.com)
+[![Status: Official Light Paper v2.0](https://img.shields.io/badge/Status-Official--v2.0-green)](#)
+[![Cycle: 2026-2027](https://img.shields.io/badge/Cycle-2026--2027-orange)](#)
 
----
-
-## ⚡ Executive Summary
-Surchi is a decentralized protocol deploying **Autonomous AI Sentinels** on the Solana blockchain. By merging sub-second on-chain telemetry with off-chain social sentiment, Surchi bridges the gap between raw data and profitable execution for the 2026/2027 market cycle.
-
-### Why Solana?
-As we scale into 2027, speed is the only moat. 
-* **High Throughput:** Processing signals at 65k+ TPS.
-* **Ultra-Low Cost:** AI-driven rebalancing at ~$0.00025 per transaction.
-* **Deep Liquidity:** Native integration with Jupiter and Raydium ecosystems.
+Surchi is the infrastructure of the **Agentic Web**. It deploys **Sovereign Neural Sentinels**—AI units that possess their own wallets, perform independent inference, and execute user "Intents" at the sub-second speed of the Solana network.
 
 ---
 
-## 📊 Tokenomics ($SURCHI)
-The tokenomics are hard-coded for scarcity and long-term ecosystem health.
+## 📖 Strategic Documentation
+To understand the full depth of the Surchi Protocol, please explore our core documentation modules:
 
-| Allocation | % | Tokens | Purpose |
+1.  **[The Macro Context](./docs/01_macro_context.md):** Why the "Manual Trader" is extinct in 2026.
+2.  **[The Neural Engine](./docs/02_neural_engine.md):** Deep dive into Intent-Based Execution and the Tech Stack.
+3.  **[Economic Flywheel](./docs/03_economic_flywheel.md):** $SURCHI Tokenomics, Scarcity, and the "Neural Burn."
+4.  **[Strategic Roadmap](./docs/04_roadmap.md):** Our 2026-2027 evolution from Genesis to Autonomy.
+5.  **[Security & Trust](./docs/05_security_trust.md):** Non-custodial agency and verifiable on-chain logic.
+
+---
+
+## 📊 $SURCHI Snapshot
+* **Total Fixed Supply:** 19,897,905 $SURCHI
+* **Ecosystem:** Solana (High-Performance Monolith)
+* **Revenue Model:** 25% Buyback & Burn
+* **Execution:** Natural Language Interface (NLI)
+
+---
+© 2026 Surchi Protocol. Built for the future of Solana.
+
+# 🧠 The Neural Engine & Intent-Based Execution
+
+## 2.1 Intent-Based Execution Layer
+Surchi abstracts the complexity of DeFi. Users do not interact with smart contracts; they sign **"Intent Declarations."**
+
+### The Surchi Intent Model
+Instead of setting manual slippage or selecting DEXs, the user provides a natural language objective:
+> *"Acquire $SOL whenever the Fear & Greed Index drops below 30 and social sentiment for Solana AI is rising."*
+
+The Sentinel monitors the "Neural Breadcrumbs," finds the best liquidity path via **Jupiter**, and executes at the millisecond the conditions are met.
+
+## 2.2 The Sentinel Tech Stack
+* **Inference Layer:** Heavy AI compute is offloaded to **DePIN** networks like **Nosana** or **Render** to maintain 100% decentralization.
+* **Telemetry Layer:** Direct hooks into Solana's **Proof-of-History (PoH)** clock for anticipatory execution.
+* **Social Mesh:** Multi-platform NLP that weighs the "authority" of signal sources, filtering out bot-driven noise.
+
+# 📊 $SURCHI Economic Flywheel
+
+The protocol is built on a **Hard-Capped Supply of 19,897,905 $SURCHI**.
+
+## 3.1 Token Allocation
+| Segment | Weight | Amount | Terms |
 | :--- | :--- | :--- | :--- |
-| **Presale** | `70%` | **13,928,533.5** | Core Community Distribution |
-| **Liquidity** | `25%` | **4,974,476.25** | LP Burn & Market Stability |
-| **Community Reserve** | `5%` | **1,995,895.25** | DAO, Staking & Ecosystem |
+| **Public Distribution** | 70% | 13,928,533.5 | Fair Launch |
+| **Liquidity Provision** | 25% | 4,974,476.25 | **Locked 24 Months** (Squads) |
+| **Ecosystem Reserve** | 5% | 994,895.25 | DAO Neural Grants |
 
-> [!IMPORTANT]
-> **Liquidity Lock:** 100% of the LP tokens are locked for **24 months** via time-locked smart contracts. This is verifiable on-chain to ensure zero "Rug-Pull" risk.
+## 3.2 The "Neural Burn" Mechanism
+1. **Intelligence Fees:** Each successful Intent execution triggers a micro-fee.
+2. **Revenue Buyback:** 25% of protocol revenue is automatically routed to market-buy $SURCHI.
+3. **Atomic Burn:** Tokens are sent to the Solana "black hole" address, permanently reducing supply.
 
----
+# 🗓 Strategic Roadmap: 2026–2027
 
-## 🛠 Technology Stack
+## 🟢 PHASE 1: GENESIS (Q1-Q2 2026)
+- **Neural TGE:** $SURCHI Generation and initial Liquidity injection.
+- **Sentinel V1 Alpha:** Launch of sentiment-based execution for early adopters.
 
+## 🟡 PHASE 2: INTELLIGENCE SCALING (Q3-Q4 2026)
+- **Hardware Integration:** Native app for **Solana Seeker/Saga 2**.
+- **Marketplace Launch:** Renting/Sharing top-performing Sentinel configurations.
 
-
-* **Agent Core:** Modular AI units (Sentinels) trained on Solana's Proof-of-History (PoH) datasets.
-* **Natural Language Interface:** Interact with your portfolio via simple text commands.
-* **Deflationary Engine:** 25% of protocol revenue is used for **Buyback & Burn**, reducing circulating supply.
-
----
-
-## 🗓 Roadmap: 2026 - 2027
-
-### 🟢 Phase 1: The Genesis (Q1 - Q2 2026)
-- [ ] **$SURCHI TGE (Token Generation Event)** on Solana Mainnet.
-- [ ] Security Audit of SPL Token Program.
-- [ ] Initial DEX Offering (IDO) and Liquidity Pairing.
-
-### 🟡 Phase 2: Intelligence Scaling (Q3 - Q4 2026)
-- [ ] **Surchi Sentinel V1 Beta:** Real-time sentiment analysis engine launch.
-- [ ] Jupiter Aggregator integration for automated "Best-Price" swaps.
-- [ ] Mobile Dashboard launch (Optimized for Solana Seeker/Saga).
-
-### 🔵 Phase 3: Sovereign Autonomy (2027)
-- [ ] **Decentralized Inference:** Offloading AI compute to decentralized GPU networks.
-- [ ] Institutional API suite for high-frequency algorithmic traders.
-- [ ] Cross-chain AI bridges to monitor external liquidity flows.
-
----
-
-## 🔐 Security & Compliance
-To maintain project integrity and long-term standing:
-1. **Multi-Sig Wallets:** Reserve funds are managed via Squads (Solana Multi-sig).
-2. **Transparent Burns:** Every $SURCHI burn is broadcasted and verified on Solscan.
-3. **Verified Code:** All smart contracts are open-source and audited by third-party security firms.
-
----
-
-## 🚀 Get Involved
-* **Star this Repo:** Follow our code commits and development progress.
-* **Documentation:** Detailed protocol specs can be found in the `/docs` folder.
-* **Support:** Open an issue or join our community channels.
-
----
-© 2026 Surchi Protocol. Built on Solana.
+## 🔵 PHASE 3: SOVEREIGN AUTONOMY (2027)
+- **Cross-Chain Sentinels:** Monitoring liquidity flows on Ethereum and Bitcoin L2s.
+- **Full DePIN Migration:** 100% of AI inference on decentralized GPU networks.
