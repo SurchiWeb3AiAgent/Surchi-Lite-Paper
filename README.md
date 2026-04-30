@@ -25,8 +25,8 @@ The tokenomics are hard-coded for scarcity and long-term ecosystem health.
 | Allocation | % | Tokens | Purpose |
 | :--- | :--- | :--- | :--- |
 | **Presale** | `70%` | **13,928,533.5** | Core Community Distribution |
-| **Liquidity** | `20%` | **3,979,581.0** | LP Burn & Market Stability |
-| **Community Reserve** | `10%` | **1,989,790.5** | DAO, Staking & Ecosystem |
+| **Liquidity** | `25%` | *4,974,476.25** | LP Burn & Market Stability |
+| **Community Reserve** | `5%` | **1,995,895.25** | DAO, Staking & Ecosystem |
 
 > [!IMPORTANT]
 > **Liquidity Lock:** 100% of the LP tokens are locked for **24 months** via time-locked smart contracts. This is verifiable on-chain to ensure zero "Rug-Pull" risk.
