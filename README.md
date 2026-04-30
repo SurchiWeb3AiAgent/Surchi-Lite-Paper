@@ -25,7 +25,7 @@ The tokenomics are hard-coded for scarcity and long-term ecosystem health.
 | Allocation | % | Tokens | Purpose |
 | :--- | :--- | :--- | :--- |
 | **Presale** | `70%` | **13,928,533.5** | Core Community Distribution |
-| **Liquidity** | `25%` | *4,974,476.25** | LP Burn & Market Stability |
+| **Liquidity** | `25%` | **4,974,476.25** | LP Burn & Market Stability |
 | **Community Reserve** | `5%` | **1,995,895.25** | DAO, Staking & Ecosystem |
 
 > [!IMPORTANT]
