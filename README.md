@@ -84,3 +84,14 @@ The protocol is built on a **Hard-Capped Supply of 19,897,905 $SURCHI**.
 ## 🔵 PHASE 3: SOVEREIGN AUTONOMY (2027)
 - **Cross-Chain Sentinels:** Monitoring liquidity flows on Ethereum and Bitcoin L2s.
 - **Full DePIN Migration:** 100% of AI inference on decentralized GPU networks.
+
+____
+
+
+## 🌐 Connect With Us
+
+Explore the future of finance and join our community:
+
+**[Website](https://surchi.xyz)** [Twitter/X](https://x.com/surchi.com) • [Discord](https://discord.gg/DtFYCzCUk) • [Instagram](https://www.instagram.com/surchicoin?igsh=YXlhY2VkZ2lxam9w)  
+[Facebook](https://facebook.com/surchi) • [YouTube](https://www.youtube.com/@Surchi-web3-Ai)
+[Whatsapp](https://chat.whatsapp.com/Gy843NCfXKhEMpU2rbivNy?mode=gi_t)
