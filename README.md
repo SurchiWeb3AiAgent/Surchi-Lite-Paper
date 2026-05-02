@@ -12,7 +12,7 @@
 ---
 
 [![Network: Solana](https://img.shields.io/badge/Network-Solana-blueviolet)](https://solana.com)
-[![Status: Official Light Paper v2.0](https://img.shields.io/badge/Status-Official--v2.0-green)](#)
+[![Status: Official Light Paper v1.0](https://img.shields.io/badge/Status-Official--v1.0-green)](#)
 [![Cycle: 2026-2027](https://img.shields.io/badge/Cycle-2026--2027-orange)](#)
 
 Surchi is the infrastructure of the **Agentic Web**. It deploys **Sovereign Neural Sentinels**—AI units that possess their own wallets, perform independent inference, and execute user "Intents" at the sub-second speed of the Solana network.
