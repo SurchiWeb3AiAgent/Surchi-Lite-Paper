@@ -1,3 +1,4 @@
+---
 
 [![Network: Solana](https://img.shields.io/badge/Network-Solana-blueviolet)](https://solana.com)
 [![Status: Official Light Paper v1.0](https://img.shields.io/badge/Status-Official--v1.0-green)](#)
@@ -382,6 +383,6 @@ ___
 
 Explore the future of finance and join our community:
 
-**[Website](https://surchi.xyz)** [Twitter/X](https://x.com/surchi.com) • [Discord](https://discord.gg/DtFYCzCUk) • [Instagram](https://www.instagram.com/surchicoin?igsh=YXlhY2VkZ2lxam9w) •
+**[Website](https://surchi.xyz)** • [Twitter/X](https://x.com/surchi.com) • [Discord](https://discord.gg/DtFYCzCUk) • [Instagram](https://www.instagram.com/surchicoin?igsh=YXlhY2VkZ2lxam9w) •
 [Facebook](https://facebook.com/surchi) • [YouTube](https://www.youtube.com/@Surchi-web3-Ai) •
 [Whatsapp](https://chat.whatsapp.com/Gy843NCfXKhEMpU2rbivNy?mode=gi_t) •
