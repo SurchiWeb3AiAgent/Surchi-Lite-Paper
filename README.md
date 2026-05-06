@@ -282,11 +282,13 @@ SURCHI follows a fixed-supply, community-first token model.
 
 ## Distribution
 
-| Segment | Allocation | Amount |
-|--------|-----------:|-------:|------|
-| Public Presale | 64% | 12,734,659.2 | Released at TGE |
-| Liquidity Pool | 30% | 5,969,371.5 | Locked for 24 Months |
-| Community Reserve (DAO) | 6% | 1,193,874.3 | Treasury, Grants, Staking |
+| Category | Allocation (%) | Token Amount | Vesting & Distribution |
+| :--- | :---: | :---: | :--- |
+| **Public Presale** | 64% | 12,734,659.2 | Released at TGE |
+| **Liquidity Pool** | 30% | 5,969,371.5 | Locked for 24 Months |
+| **Community Reserve (DAO)** | 6% | 1,193,874.3 | Treasury, Grants, Staking |
+| **Total** | **100%** | **19,897,905.0** | |
+
 
 ## Design Principles
 
